@@ -8,7 +8,8 @@ public class MyTriangle {
 		v1.setY(y1);
 		v2.setX(x2);
 		v2.setY(y2);
-		v3.setX(x3);		
+		v3.setX(x3);
+		v3.setY(y3);
 	}
 	
 	public MyTriangle(MyPoint v1, MyPoint v2, MyPoint v3){
@@ -18,7 +19,9 @@ public class MyTriangle {
 	}
 	
 	public String toString(){
-		return "Triangle @ ("+ v1.getX()+ "," +v1.getY() + "),("+v2.getX()+ ","+v2.getY()+"),("+v3.getX()+","+v3.getY()+")";
+		String chain;
+		chain = "Triangle @ ("+ v1.getX()+ "," +v1.getY() + "),("+v2.getX()+ ","+v2.getY()+"),("+v3.getX()+","+v3.getY()+")";
+		return chain;
 	}
 	
 	public double getPerimeter(){
