@@ -1,8 +1,8 @@
 
 public class TestMyCircle {
-
 	/**
 	 * @param args
+	*  @author Gonzalo H. Mendoza
 	 */
 	public static void main(String[] args) {
 		// Here I test my classes
