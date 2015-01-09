@@ -1,3 +1,5 @@
+import MyPoint;
+
 public class MyCircle {
 	private MyPoint center;
 	private int radius;
@@ -48,7 +50,7 @@ public class MyCircle {
 	}
 	
 	public double getArea(){
-		double area = Math.PI  *Math.pow(radius,2);
+		double area = Math.PI * Math.pow(radius,2);
 		return area;
 	}
 	
