@@ -7,10 +7,22 @@ public class MyCircle {
 		this.radius = radius;
 	}
 	
-	//public MyCircle(MyPoint.x center, MyPoint.y radius)
+	public MyCircle(MyPoint.x center, MyPoint.y, radius){
+		center.x = MyPoint.x;
+		center.y = MyPoint.y;
+		this.radius = radius;
+	}
 	
 	public MyPoint getCenter(){
 		return center;
+	}
+	
+	public int getCenterX(){
+		return center.x;
+	}
+	
+	public int getCenterY(){
+		return center.y;
 	}
 	
 	public void setCenter(MyPoint center){
@@ -31,7 +43,13 @@ public class MyCircle {
 	}
 	
 	public String toString(){
-		return "Circle @ (" + center.x +"," + center.y + ") radius =" + radius;
+		String chain = "Circle @ (" + center.x +"," + center.y + ") radius =" + radius;
+		return chain;
+	}
+	
+	public double getArea(){
+		double area = Math.PI  *Math.pow(radius,2);
+		return area;
 	}
 	
 }
