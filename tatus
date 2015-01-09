@@ -1,0 +1,275 @@
+[33mcommit 823db08bf7cbcd039e5ce957c55f90fd1116d2fb[m
+Author: Gonza <yogonza524@gmail.com>
+Date:   Fri Jan 9 17:10:08 2015 -0300
+
+    Ejercicio 2 con correcciones
+
+[33mcommit e829c6b606a40bdd7761305dd43dc8c11857b2a7[m
+Merge: 77b3ae2 d1cee1f
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 18:38:13 2015 -0300
+
+    Merge pull request #1 from yogonza524/bootcamp_gonzalo.mendoza
+    
+    Clase Circulo
+
+[33mcommit d1cee1fb34aacc0bd01690fe0919aaa9efd0ad3e[m
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 15:32:31 2015 -0300
+
+    Realizo las modificaciones pedidas
+
+[33mcommit 503da8076f7b0c18725a03b8625b14c3d7d6474d[m
+Merge: bb8d73f ec710b9
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 15:22:41 2015 -0300
+
+    Volviendo a subir con las correciones
+
+[33mcommit bb8d73fa78e8287da8ad3c694b114d0cf35b5247[m
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 06:34:02 2015 -0300
+
+    Realizo las modificaciones pedidas
+
+[33mcommit ec710b9541f4cf25b134fa66b010e0cfa24239c1[m
+Merge: ad4fd7d f08c236
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 15:18:09 2015 -0300
+
+    Merge branch 'bootcamp_gonzalo.mendoza' of https://github.com/yogonza524/java-bootcamp into bootcamp_gonzalo.mendoza
+
+[33mcommit ad4fd7d7ba68b2d88696c6962b2655c4de60cb09[m
+Merge: df7141d f0bb43f
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 15:02:33 2015 -0300
+
+    Merge branch 'bootcamp_gonzalo.mendoza' of https://github.com/yogonza524/java-bootcamp into bootcamp_gonzalo.mendoza
+    
+    Realizo las modificaciones pedidas, volviendo a subir
+
+[33mcommit f08c236f21000b31e37902d01e0050f72b71127b[m
+Merge: df7141d f0bb43f
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 15:02:33 2015 -0300
+
+    Merge branch 'bootcamp_gonzalo.mendoza' of https://github.com/yogonza524/java-bootcamp into bootcamp_gonzalo.mendoza
+    
+    Realizo las modificaciones pedidas, volviendo a subir
+
+[33mcommit df7141dac7aa496d004fbfe7e2e8e7a9f2927f5a[m
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 06:34:02 2015 -0300
+
+    Creo la carpeta de ejercicios de POO e implemento la clase Circulo
+
+[33mcommit f0bb43f4af9d35fc60bb7ff8b73628b9c068bf92[m
+Author: Gonza <yogonza524@gmail.com>
+Date:   Thu Jan 8 06:34:02 2015 -0300
+
+    Creo la carpeta de ejercicios de POO e implemento la clase Circulo
+
+[33mcommit 77b3ae23d439389943db426cb3c5ff97ecfeae7b[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 21:22:26 2015 -0300
+
+    Update README.md
+
+[33mcommit 8a07f2e4114398f30289259eedd49be38d327b70[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 21:21:20 2015 -0300
+
+    Update README.md
+
+[33mcommit bd6b70751c94aee4482df9227f1178e389fbfc7e[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 21:20:25 2015 -0300
+
+    Update README.md
+
+[33mcommit 7d6ce4e17de63677f22ce020a7cb3a825f90f2f8[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 21:18:28 2015 -0300
+
+    Update README.md
+
+[33mcommit 42be39a8e8cee2542416a28b8ead5cee44381e11[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 21:17:36 2015 -0300
+
+    Update README.md
+
+[33mcommit ed3d65adfe0dbeb81eea6da7c48dd08488eb48dd[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 21:09:33 2015 -0300
+
+    Update README.md
+
+[33mcommit 6f48cb86620e6c7587894119b54bc86e6e2fdffd[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 20:59:44 2015 -0300
+
+    Update README.md
+
+[33mcommit a2359ed2644fbad5573498b9c80c9e0b79866ff5[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Sat Jan 3 20:47:36 2015 -0300
+
+    Update README.md
+
+[33mcommit bc3e3c779804e95f2f7455e3f9b5f6af8e42dc7b[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Fri Jan 2 19:14:25 2015 -0300
+
+    Update README.md
+
+[33mcommit 3df2a3746e42008019fb93462b472baee6e2dd9b[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Fri Jan 2 18:17:52 2015 -0300
+
+    Update README.md
+
+[33mcommit d25d81a85b402071c101e99346397a4ea7a42b01[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Fri Jan 2 17:43:28 2015 -0300
+
+    Update README.md
+
+[33mcommit 6f392fc712b1c52803e8ea199e39d99634831c30[m
+Author: jppizarro <jppizarro@ebay.com>
+Date:   Fri Jan 2 17:42:30 2015 -0300
+
+    adding formatter
+
+[33mcommit f86dca8387afd01ff9e7975e09fb8bedb91b6809[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Thu Jan 1 21:27:19 2015 -0300
+
+    Update README.md
+
+[33mcommit 6568c2f7cf0fab3c33c566e6556c39de0add3438[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Thu Jan 1 21:23:53 2015 -0300
+
+    Update README.md
+
+[33mcommit edd18ee3b6a4c2bb70ae7754af83c1fee3280ac9[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Thu Jan 1 21:18:02 2015 -0300
+
+    Update README.md
+
+[33mcommit 3118893b2ae5a8fd1deb8b3f2af34286e829d848[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Thu Jan 1 21:03:15 2015 -0300
+
+    Update README.md
+
+[33mcommit 5c7c975a801d4a6974c214ae100f44b4dfe73563[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Mon Dec 29 16:39:22 2014 -0300
+
+    Update README.md
+
+[33mcommit 161a540d1d08c39d02a05f48a8ddb1b5e23e13b3[m
+Author: Luciana Zavaleta <lucianazavaleta@gmail.com>
+Date:   Tue Dec 23 18:35:34 2014 -0300
+
+    Add exercises for TDD module
+
+[33mcommit 1cca4d5fb5416699a3465d09ab95dd9232eca5cc[m
+Author: manuelcorralesglb <manuel.corrales@globant.com>
+Date:   Tue Dec 23 15:09:42 2014 -0300
+
+    Update README.md
+
+[33mcommit b6b624b69ffdc0bf1a92727c8e73b6a980565071[m
+Author: elsebafernandez <elsebafernandez@users.noreply.github.com>
+Date:   Tue Dec 23 09:44:44 2014 -0300
+
+    Update README.md
+    
+    Adding Maven Practice. Clearly it is still a WIP
+
+[33mcommit b0ddba514d4088b7d0669cc0d06b21e2f00e364b[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Mon Dec 22 23:11:25 2014 -0300
+
+    Update README.md
+
+[33mcommit 4dc00858721534dd89428436050987db421669f6[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Mon Dec 22 20:46:18 2014 -0300
+
+    Update README.md
+
+[33mcommit 4a7fe386aebdadb164425dbdcd64e98e1f5bb8d0[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Mon Dec 22 20:16:03 2014 -0300
+
+    Update README.md
+
+[33mcommit 814a7995ec1696e17c4fa9e61fc61690cefae94f[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Mon Dec 22 20:15:08 2014 -0300
+
+    Update README.md
+
+[33mcommit eefcab94a5837ae34b5ff45f375decf5a5270b9a[m
+Author: Luciana Zavaleta <lucianazavaleta@gmail.com>
+Date:   Mon Dec 22 18:39:34 2014 -0300
+
+    Add more My SQl exercises
+
+[33mcommit 6f2ce4a823fd48001d431fe301db0636b662d2c2[m
+Author: Luciana Zavaleta <lucianazavaleta@gmail.com>
+Date:   Mon Dec 22 17:31:27 2014 -0300
+
+    Update My SQl exercises format
+
+[33mcommit cae7141d1c0d59006c5b8190b019da3a97fcbb87[m
+Author: Luciana Zavaleta <lucianazavaleta@gmail.com>
+Date:   Mon Dec 22 17:18:12 2014 -0300
+
+    Move My SQl exercises to the proper section
+
+[33mcommit 1b90414be48cdae09dee355326d3a15bcff76be7[m
+Author: Luciana Zavaleta <lucianazavaleta@gmail.com>
+Date:   Mon Dec 22 16:23:12 2014 -0300
+
+    Move My SQl exercises to the proper section
+
+[33mcommit c66a35e88e976cf2eff9af9f3b5aa47a6b08628f[m
+Author: Luciana Zavaleta <lucianazavaleta@gmail.com>
+Date:   Mon Dec 22 16:14:39 2014 -0300
+
+    Add My SQl exercises
+
+[33mcommit 6874e1407b2a5a0f66b8b041fdce603c9d141d98[m
+Author: elsebafernandez <elsebafernandez@users.noreply.github.com>
+Date:   Mon Dec 22 10:47:38 2014 -0300
+
+    Update README.md
+    
+    Little corrections.
+
+[33mcommit 4784ab1256add983b91124922d0d9c39940bc12f[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Wed Dec 17 04:30:30 2014 -0300
+
+    Update README.md
+
+[33mcommit 7a19413c91dff766d56730ed83abe10625d71c8b[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Thu Dec 11 21:19:27 2014 -0300
+
+    Update README.md
+
+[33mcommit a8c762beff9784940b9bb66da322191004686a37[m
+Author: juanpablopizarro <juan.pizarro@globant.com>
+Date:   Thu Dec 11 21:16:57 2014 -0300
+
+    Update README.md
+
+[33mcommit b20904560a0aff2f31129607f69284288472e014[m
+Author: Luciana 
