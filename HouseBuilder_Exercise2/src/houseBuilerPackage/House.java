@@ -1,25 +1,33 @@
 package houseBuilerPackage;
-
+import java.util.ArrayList;
 public class House {
 	
-	private String bathroom;
-	private String bedroom;
+	private ArrayList<String> bathroom;
+	private ArrayList<String> bedroom;
 	private String kitchen;
 	private String livingRoom;
-	private int bathroomNum;
-	private int bedroomNum;
+	private int bathroomCounter;
+	private int bedroomCounter;
 	
-	public String getBathroom() {
+	public House(){
+		bedroom = new ArrayList<String>();
+		bathroom = new ArrayList<String>();
+		bedroomCounter = 0;
+		bathroomCounter = 0;
+	}
+	public String getBathroom(){
 		return bathroom;
 	}
-	public void setBathroom(String bathroom) {
-		this.bathroom = bathroom;
+	public void setBathroom(String aBathroom) {
+		bathroomCounter ++;
+		bathroom.add(aBathroom);
 	}
 	public String getBedroom() {
 		return bedroom;
 	}
-	public void setBedroom(String bedroom) {
-		this.bedroom = bedroom;
+	public void setBedroom(String aBedroom) {
+		bedroomCounter ++;
+		bedroom.add(aBedroom);
 	}
 	public String getKitchen() {
 		return kitchen;
@@ -47,12 +55,13 @@ public class House {
 	}
 	
 	public String toString() {
-		return ("\nBedrooms: " + bedroom 
-				+"\nNumber of Bedrooms: " + bedroomNum 
-				+"\nLivingRoom: " +livingRoom
+		return ("\nLivingRoom: " +livingRoom
 				+"\nKitchen: "+kitchen
 				+"\nBathroom: "+bathroom
-				+"\nNumber of bathrooms: " + bathroomNum);			
+				+"\nNumber of bathrooms: " + bathroomCounter
+				+"\nBedrooms:"+ bedroom 
+				+"\nNumber of Bedrooms: " 
+				+ bedroomCounter);			
 	}
 
 	

@@ -8,8 +8,7 @@ public class Ball {
 	private float yDelta;
 	
 	private int radius;
-	
-	
+		
 	public float getX() {
 		return x;
 	}
@@ -78,12 +77,8 @@ public class Ball {
 	}
 	
 	public String toString() {
-		String chain;
-		chain = "Ball at ("+x+","+ y+") of velocity ("+xDelta+","+ yDelta+")";
-		return chain;
+		return ("Ball at ("+x+","+ y+") of velocity ("+xDelta+","+ yDelta+")");
 	}
 	
-	
-
 }
 
