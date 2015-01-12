@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Cykinder&apos; to &apos;Cylinder&apos;&#x0D;&#x0A;- Original project: &apos;3.2_CircleAndCylinderUsingComposition&apos;&#x0D;&#x0A;- Original element: &apos;Cykinder&apos;&#x0D;&#x0A;- Renamed element: &apos;Cylinder&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Cykinder&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Cykinder.java[Cykinder" matchStrategy="1" name="Cylinder" qualified="false" references="true" similarDeclarations="false" stamp="1421029484303" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,25 @@
+package myPointPackage;
+
+public class TestMyPoint {
+
+	public static void main(String[] args) {
+			
+			MyPoint p1 = new MyPoint(3, 0);
+			MyPoint p2 = new MyPoint(0, 4);
+			
+			System.out.println(p1.distance(p2));    
+			System.out.println(p1.distance(5, 6));  
+			
+			int i;
+			MyPoint[] points = new MyPoint[10]; // Declare and allocate an array of MyPoint
+			
+			for (i = 0; i < points.length; i++) {
+			   points[i] = new MyPoint(i+1,i+1);    // Allocate each of MyPoint instances
+			   System.out.println(points[i].getX()+","+points[i].getY());
+			}
+			
+			System.out.println(points[7].toString());
+		
+	}
+
+}

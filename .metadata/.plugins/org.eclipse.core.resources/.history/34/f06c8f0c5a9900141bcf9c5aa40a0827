@@ -1,0 +1,12 @@
+package myDatePakcage;
+
+public class MyDate {
+	
+	private int year;
+	private int month;
+	private int day;
+	//strMonths String[] 
+	//strDays String[] 
+	//dayInMonths int[]
+
+}

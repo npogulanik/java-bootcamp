@@ -21,13 +21,13 @@ public class IgluBuilder implements HouseBuilder {
 	@Override
 	public void buildBathroom(){
 		house.setBathroom("Cold, very cold...");
-		house.setBathroomNum(1);
+		
 	}
 	
 	@Override
 	public void buildBedroom(){
-		house.setBedroom("Human heat and balankets make a good enviroment of them. ");
-		house.setBedroomNum(2);	
+		house.setBedroom("Human heat and blankets make a good enviroment of them. ");
+			
 	}
 	
 	@Override

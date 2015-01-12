@@ -1,0 +1,59 @@
+package authorAndBookPackage;
+/*
+public methods getName(), getAuthor(), getPrice(), setPrice(), getQtyInStock(), setQtyInStock().
+toString() that returns "'book-name' by author-name (gender) at email".
+(Take note that the Author's toString() method returns "author-name (gender) at email".)
+Write the class Book (which uses the Author class written earlier). Also write a test program called TestBook
+ to test the constructor and public methods in the class Book. Take Note that you have to construct an instance of Author before you can construct an instance of Book. E.g.,
+Author anAuthor = new Author(......);
+Book aBook = new Book("Java for dummy", anAuthor, 19.95, 1000);
+// Use an anonymous instance of Author
+Book anotherBook = new Book("more Java for dummy", new Author(......), 29.95, 888);*/
+public class Book {
+	
+	private String name;
+	private Author author;
+	private double price;
+	private int qtyInStock;
+	
+	public Book (String name, Author author, double price) {
+		this.name = name;
+		this.author = author;
+		this.price = price;
+		qtyInStock = 0;
+	}
+	
+	public Book (String name, Author author, double price, int qtyInStock) {
+		this.name = name;
+		this.author = author;
+		this.price = price;
+		this.qtyInStock = qtyInStock;		
+	}
+		
+	public int getQtyInStock() {
+		return qtyInStock;
+	}
+
+	public void setQtyInStock(int qtyInStock) {
+		this.qtyInStock = qtyInStock;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public Author getAuthor() {
+		return author;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+	
+	public String toString(){
+		String label;
+		label = "'" + name + "'" + author.toString();
+		return label;
+	}	
+
+}

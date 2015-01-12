@@ -1,0 +1,19 @@
+package myTimePackage;
+
+public class TestMyTime {
+
+	public static void main(String[] args) {
+		
+		MyTime aTime = new MyTime(12,5,37);
+		System.out.println(aTime.toString());
+		System.out.println(aTime.nextHour());
+		System.out.println(aTime.nextMinute());		
+		System.out.println(aTime.nextSecond());
+		
+		System.out.println(aTime.previousHour());
+		System.out.println(aTime.previousMinute());
+		System.out.println(aTime.previousSecond());
+		
+	}
+
+}

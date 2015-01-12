@@ -1,0 +1,5 @@
+package houseBuilerPackage;
+
+public class LivingRoom extends Room{
+
+}

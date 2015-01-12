@@ -1,0 +1,15 @@
+package houseBuilerPackage;
+
+public class LivingRoom extends Room{
+	
+	public String getLivingRoomType() {
+		return LivingRoomType;
+	}
+	public void setLivingRoomType(String LivingRoomType) {
+		this.LivingRoomType = LivingRoomType;
+	}
+	public double getLength() {
+		return length;
+	}
+	
+}

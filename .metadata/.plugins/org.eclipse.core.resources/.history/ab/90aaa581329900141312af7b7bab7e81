@@ -1,0 +1,15 @@
+package superclassShapePackage;
+
+public class Square extends Rectangle{
+	
+	public Square(double side) {
+		   super(side, side);
+	}
+	
+	@Override
+	public String toString(){
+		Rectangle aRectangle = new Rectangle(); 
+		return("A Square with side = " + aRectangle.getWidth()+", which is a subclass of " + aRectangle.toString());
+	}
+	
+}

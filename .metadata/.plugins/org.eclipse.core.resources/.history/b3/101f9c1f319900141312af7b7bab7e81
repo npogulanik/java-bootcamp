@@ -1,0 +1,5 @@
+package superclassShapePackage;
+
+public class Square extends Rectangle{
+
+}

@@ -1,0 +1,23 @@
+package myComplexPackage;
+import javax.swing.JOptionPane;
+
+public class TestMyComplex {
+
+	public static void main(String[] args) {
+		
+		String nombre;  
+		nombre = JOptionPane.showInputDialog("¿Cual es tu nombre?");
+		
+		/*
+		MyComplex aComplex = new MyComplex(2.2, 3.2);
+		MyComplex anotherComplex = new MyComplex(9,0);
+		MyComplex zeroComplex = new MyComplex(0,0);
+		
+		System.out.println( aComplex.multiplyWith(anotherComplex));
+		System.out.println(aComplex.divideBy(anotherComplex));
+		System.out.println(anotherComplex.divideBy(zeroComplex));
+	
+		*/
+	}
+
+}

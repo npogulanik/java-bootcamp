@@ -1,0 +1,22 @@
+package houseBuilerPackage;
+
+public class HouseDemo {
+
+	public static void main(String[] args) {
+		/*
+		 * MealBuilder mealBuilder = new ItalianMealBuilder();
+		MealDirector mealDirector = new MealDirector(mealBuilder);
+		mealDirector.constructMeal();
+		Meal meal = mealDirector.getMeal();
+		System.out.println("meal is: " + meal);
+		 */
+		
+		HouseBuilder houseBuilder = new IgluBuilder();
+		HouseDirector houseDirector = new HouseDirector(houseBuilder);
+		houseDirector.constructHouse();
+		House house = houseDirector.getHouse();
+		System.out.println("Description of the Iglu: ");
+
+	}
+
+}

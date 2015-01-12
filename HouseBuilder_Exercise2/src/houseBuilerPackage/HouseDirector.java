@@ -13,6 +13,7 @@ public class HouseDirector {
 		houseBuilder.buildLivingRoom();
 		houseBuilder.buildBathroom();
 		houseBuilder.buildBedroom();
+		houseBuilder.buildBedroom();
 	}
 	
 	public House getHouse(){
