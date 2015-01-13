@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;authorAndBookPackage.TesteAuthor.java&apos; to &apos;TestAuthor.java&apos;&#x0D;&#x0A;- Original project: &apos;1.2_AuthorAndBookClasses&apos;&#x0D;&#x0A;- Original element: &apos;authorAndBookPackage.TesteAuthor.java&apos;&#x0D;&#x0A;- Renamed element: &apos;authorAndBookPackage.TestAuthor.java&apos;" description="Rename compilation unit &apos;TesteAuthor.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;authorAndBookPackage{TesteAuthor.java" name="TestAuthor.java" references="false" stamp="1420861040466" version="1.0"/>
-</session>

@@ -3,18 +3,16 @@ import java.util.ArrayList;
 
 public class Hospital {
 	
-	public String name;
-	private ArrayList<String> bathroom;
-	private ArrayList<String> bedroom;
+	private String name;
+	private ArrayList<String> bathroom = new ArrayList<String>();
+	private ArrayList<String> bedroom = new ArrayList<String>();;
 	private String waitingRoom;
 	private String speciality;
-	private ArrayList<String> departments;
+	private ArrayList<String> departments = new ArrayList<String>();
 	private String Kitchen;
 	
 	public Hospital(){
-		bedroom = new ArrayList<String>();
-		bathroom = new ArrayList<String>();
-		departments = new ArrayList<String>();
+		
 	}
 	
 	public String getKitchen() {
@@ -34,19 +32,27 @@ public class Hospital {
 	}
 
 	public ArrayList<String> getBathroom() {
-		return bathroom;
+		ArrayList<String> bath = new ArrayList<String>();
+		for( int i = 0; i <= bathroom.size(); i++){
+			bath.add(bathroom.get(i));
+		}
+		return bath;
 	}
 
-	public void setBathroom(ArrayList<String> bathroom) {
-		this.bathroom = bathroom;
+	public void addBathroom(String bathroom) {
+		this.bathroom.add(bathroom);
 	}
 
 	public ArrayList<String> getBedroom() {
-		return bedroom;
+		ArrayList<String> bed = new ArrayList<String>();
+		for( int i = 0; i <= bedroom.size(); i++){
+			bed.add(bedroom.get(i));
+		}
+		return bed;
 	}
 
-	public void setBedroom(ArrayList<String> bedroom) {
-		this.bedroom = bedroom;
+	public void addBedroom(String bedroom) {
+		this.bedroom.add(bedroom);
 	}
 
 	public String getWaitingRoom() {
@@ -66,11 +72,15 @@ public class Hospital {
 	}
 
 	public ArrayList<String> getDepartments() {
-		return departments;
+		ArrayList<String> dept = new ArrayList<String>();
+		for( int i = 0; i <= departments.size(); i++){
+			dept.add(departments.get(i));
+		}
+		return dept;
 	}
 
-	public void setDepartments(ArrayList<String> departments) {
-		this.departments = departments;
+	public void addDepartments(String departments) {
+		this.departments.add(departments);
 	}
 	
 	public String toString(){

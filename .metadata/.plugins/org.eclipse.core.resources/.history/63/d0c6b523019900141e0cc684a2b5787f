@@ -1,7 +1,0 @@
-package houseBuilerPackage;
-
-public class Kitchen extends Room{
-	
-	
-
-}
