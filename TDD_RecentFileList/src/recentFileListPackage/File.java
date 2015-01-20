@@ -2,9 +2,9 @@ package recentFileListPackage;
 
 public class File {
 	
-	private String name;
-	private String content;
-	private String path;
+	public String name;
+	public String content;
+	public String path;
 
 	public String getName() {
 		return name;
@@ -44,6 +44,12 @@ public class File {
 		name = anotherFile.name;
 		content = anotherFile.content;
 		path = anotherFile.path;
+	}
+	
+	public String toString(){
+		return ("Path:"+ path
+				+"\nName" + name
+				+"\nContent" + content);
 	}
 	
 	

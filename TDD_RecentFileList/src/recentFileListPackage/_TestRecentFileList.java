@@ -8,16 +8,16 @@ public class _TestRecentFileList {
 	@Test
 	public void testFirstTime() {
 		RecentFile q = new RecentFile();
-		assertEquals(q.queue,null);		
+		assertEquals(RecentFile.queue,null);		
 	}
 	
 	@Test
 	public void test_a_file(){
 		File aFile = new File("file1.txt","Some plot around here","C://users/");
-		RecentFile aQueue = new RecentFile();
-		aQueue.enterQueue(aFile);
-		File anotherFile = new File(aQueue.queue.get(0));
-		assertEquals(anotherFile,aFile);		
+		//RecentFile aQueue = new RecentFile();
+		RecentFile.enterQueue(aFile);
+		//File anotherFile = new File(RecentFile.queue.get(0));
+		assertEquals(RecentFile.queue.get(0).toString(),aFile);		
 	}
 
 }

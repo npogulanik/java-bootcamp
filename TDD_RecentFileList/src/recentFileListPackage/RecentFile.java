@@ -3,17 +3,15 @@ import java.util.LinkedList;
 
 public class RecentFile {
 	
-	LinkedList<File> queue = new LinkedList<File>();
+	public static LinkedList<File> queue; //= new LinkedList<File>();
 	
 	public RecentFile(){
 		queue = null;
 	}
 	
-	public RecentFile(File file){
-		queue.addFirst(file);	
-	}
 	
-	public void enterQueue(File file){
+	
+	public  static void enterQueue(File file){
 		if(queue.contains(file)){
 			queue.remove(file);
 		}
@@ -23,13 +21,22 @@ public class RecentFile {
 		queue.addFirst(file);	
 	}
 	
-	public File leaveQueue(){
+	public static File leaveQueue(){
 		return queue.removeLast();
 	}
 	
-	public void openFile(File file){
+	public static void openFile(File file){
 		enterQueue(file);
 		System.out.println("PATH"+ file.getPath() + "\nFile name: " + file.getName() + "\n"+file.getContent());
+	}
+	
+	public boolean equals(File file){
+		if(file.getName() == queue.getName()){
+			
+		}
+		else{
+			
+		}
 	}
 
 	
