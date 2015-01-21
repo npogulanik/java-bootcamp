@@ -34,7 +34,7 @@ public class _TestConvertToString {
 	
 	@Test
 	public void test_20_twenty(){
-		assertEquals(new Check(20).toText(),"Twenty  dollars");
+		assertEquals(new Check(20).toText(),"Twenty dollars");
 	}
 	
 	@Test
@@ -51,4 +51,15 @@ public class _TestConvertToString {
 	public void test_120_60_one_hundred_twenty_6_100(){
 		assertEquals(new Check(120.60).toText(),"One hundred twenty 60/100 dollars");
 	}
+	
+	@Test
+	public void _1568_to_onethousand_fiftyhundred_sixtyeight_dollars(){
+		assertEquals(new Check(1568).toText(),"One thousand five hundred sixty-eight dollars");
+	}
+	
+	@Test
+	public void _523568_toString(){
+		assertEquals(new Check(523568).toText(),"Five hundred twenty-three thousand five hundred sixty-eight dollars");
+	}
+	
 }
