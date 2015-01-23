@@ -136,8 +136,6 @@ public class Check {
 			return text;
 		}
 		
-	
-	
 	private String completeSentence() {
 		if(mantissa != 0){
 			text  += mantissa+ "/100 ";
