@@ -9,11 +9,11 @@ public class RecentFile {
 		queue = null;
 	}
 	
-	
-	
-	public  static void enterQueue(File file){
-		if(queue.contains(file)){
-			queue.remove(file);
+	public void enterQueue(File file){
+		for(int i = 0; i <= queue.size(); i++){
+			if(queue.equals(file)){
+				queue.remove(file);
+			}
 		}
 		if(queue.size() >= 15){
 			queue.removeLast();
@@ -21,23 +21,23 @@ public class RecentFile {
 		queue.addFirst(file);	
 	}
 	
+	public boolean equals(Object aFile){
+		for(int i = 0; i <= queue.size(); i++){
+			if(queue.get(i) == aFile){
+				return true;
+			}	
+		}
+		return false;
+	}
+	
 	public static File leaveQueue(){
 		return queue.removeLast();
 	}
 	
-	public static void openFile(File file){
-		enterQueue(file);
-		System.out.println("PATH"+ file.getPath() + "\nFile name: " + file.getName() + "\n"+file.getContent());
+	public void getFile(){
+		
 	}
 	
-	public boolean equals(File file){
-		if(file.getName() == queue.getName()){
-			
-		}
-		else{
-			
-		}
-	}
 
 	
 

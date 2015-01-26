@@ -14,7 +14,7 @@ public class Test {
 
 		System.out.println("Amount - integer "+ (amount - integer));
 		*/
-		System.out.println(new Check(120.20).toText());
+		System.out.println(new Check(523568).toText());
 	}
 
 }

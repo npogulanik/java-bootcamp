@@ -1,12 +1,15 @@
 package checkPackage;
+import java.util.HashMap;
 
 public class Check {
 	
 	private double amount;
 	private String text = "";
-	private int integer;
+	private Integer integer;
 	private int mantissa;
-
+	public HashMap<Integer, String> unity = new HashMap<Integer, String>();
+	public HashMap<Integer, String> decade = new HashMap<Integer, String>();
+	
 	public Check(double amount) {
 		this.amount = amount;
 		this.integer = (int) amount;
@@ -25,208 +28,123 @@ public class Check {
 			return "Zero dollars";
 		}
 		else{
-			if((100<= integer) && (integer < 1000)){
-				integer = (int) integer / 100;
-				text = text + getUnity();
-				text = text + " hundred ";
-				integer = (int) amount;
-				integer = integer - (int) (Math.round(amount / 100))*100;
-			}
-			if((9<integer) && (integer < 100)){
-				text = text + getDecade();
+			
+			unity.put(1,"one");
+			unity.put(2,"two");
+			unity.put(3,"three");
+			unity.put(4,"four");
+			unity.put(5,"five");
+			unity.put(6,"six");
+			unity.put(7,"seven");
+			unity.put(8,"eight");
+			unity.put(9,"nine");
+			
+			decade.put(10,"ten");
+			decade.put(11,"eleven");
+			decade.put(12,"twelve");
+			decade.put(13,"thirteen");
+			decade.put(14,"fourteen");
+			decade.put(15,"fifteen");
+			decade.put(16,"sixteen");
+			decade.put(17,"seventeen");
+			decade.put(18,"eighteen");
+			decade.put(19,"nineteen");
+			decade.put(20,"twenty");
+			decade.put(30,"thirty");
+			decade.put(40,"fourty");
+			decade.put(50,"fifty");
+			decade.put(60,"sixty");
+			decade.put(70,"seventy");
+			decade.put(80,"eighty");
+			decade.put(90,"ninety");
+			decade.put(2,"twenty-");
+			decade.put(3,"thirty-");
+			decade.put(4,"fourty-");
+			decade.put(5,"fifty-");
+			decade.put(6,"sixty-");
+			decade.put(7,"seventy-");
+			decade.put(8,"eighty-");
+			decade.put(9,"ninety-");
+			
+			if((1000 <=integer) && (integer <1000000)){
+				int auxInt = (int) integer / 1000;
+				if((100 <= auxInt ) && (auxInt < 1000)){
 				
-			}
-				//if (integer == 61) {return "Sixty-one dollars";}
-				if (integer != 0){
-					text = text + getUnity();
+					int aux = (int) auxInt / 100;
+					text = text + unity.get(aux);
+					text = text + " hundred ";
+					auxInt = ((int) auxInt) - aux * 100;
+					integer = integer - aux * 100000;
+		
 				}
 				
-				text = completeSentence();
-				return text;
-		}
-	}
-
-	private String getDecade() {
-		
-		switch(integer){
-		case 10:{
-			integer = integer - 10;
-			return "ten";
-		}
-		case 11:{
-			integer = integer -11;
-			return "eleven";
-		}
-		case 12:{
-			integer = integer - 12;
-			return "twelve";
-		}
-		case 13:{
-			integer = integer -13;
-			return "thirteen";
-		}
-		case 14:{
-			integer = integer -14;
-			return "fourteen";
-		}
-		case 15:{
-			integer = integer -15;
-			return "fifteen";
-		}
-		case 16:{
-			integer = integer -16;
-			return "eleven";
-		}
-		case 17:{
-			integer = integer -17;
-			return "seventeen";
-		}
-		case 18:{
-			integer = integer -18;
-			return "eighteen ";
-		}
-		case 19:{
-			integer = integer - 19;
-			return "nineteen ";
-		}
-		case 20:{
-			integer = integer - 20;
-			return "twenty ";
-		}
-		case 30:{
-			integer = integer - 30;
-			return "thirty ";
-		}
-		case 40:{
-			integer = integer - 40;
-			return "forty ";
-		}
-		case 50:{
-			integer = integer - 50;
-			return "fifty ";
-		}
-		case 60:{
-			integer = integer - 60;
-			return "sixty ";
-		}
-		case 70:{
-			integer = integer - 70;
-			return "seventy ";
-		}
-		case 80:{
-			integer = integer - 80;
-			return "eighty ";
-		}
-		case 90:{
-			integer = integer - 90;
-			return "ninety ";
-		}
+				if((9< auxInt) && (auxInt < 100)){
+					
+					//auxInt = (int) integer;
+					if(decade.containsKey(auxInt)){
+						text = text + decade.get(auxInt) + " ";
+						integer = integer - auxInt *1000;
+						auxInt = 0;
+					}
+					else{
+						int aux = (int) auxInt / 10;
+						text = text + decade.get(aux);
+						integer = integer - aux *10000;
+						auxInt = (int) auxInt - aux * 10;
+					}
+					
+				}
+				
+				if((1 <= auxInt) && ( auxInt <=9)){
+					text = text + unity.get(auxInt) + " ";
+					integer = integer - auxInt * 1000;
+				}
+				
+				text = text + "thousand ";
+			}
+			
+			if((100<= integer) && (integer < 1000)){
+				
+				int auxInt = (int) integer / 100;
+				text = text + unity.get(auxInt);
+				text = text + " hundred ";
+				integer = ((int) integer) - auxInt * 100;
+	
+			}
+			
+			if((9<integer) && (integer < 100)){
+				
+				int auxInt = (int) integer;
+				if(decade.containsKey(auxInt)){
+					text = text + decade.get(auxInt) + " ";
+					integer = ((int) integer) - auxInt;
+				}
+				else{
+					auxInt = (int) integer / 10;
+					text = text + decade.get(auxInt);
+					integer = ((int) integer) - auxInt * 10;
+				}
+				
+			}
+			
+			if((1 <= integer) && (integer <=9)){
+				text = text + unity.get(integer) + " ";
+				integer = (int) amount;
+			}
+			}	
+			text = completeSentence();
+			return text;
 		}
 		
-		
-		int auxInteger = integer /10;
-		switch(auxInteger){
-		case 2:{
-			integer = integer - 20;
-			return "twenty-";
-		}
-		case 3:{
-			integer = integer - 30;
-			return "thirty-";
-		}
-		case 4:{
-			integer = integer - 40;
-			return "forty-";
-		}
-		case 5:{
-			integer = integer - 50;
-			return "fifty-";
-		}
-		case 6:{
-			integer = integer - 60;
-			return "sixty-";
-		}
-		case 7:{
-			integer = integer - 70;
-			return "seventy-";	
-		}
-		case 8:{
-			integer = integer - 80;
-			return "eighty-";
-		}
-		case 9:{
-			integer = integer - 90;
-			return "ninety-";
-		}
-		default:{
-		throw new IllegalArgumentException("Argument Invalid");
-		}
-		}
-	}
-
 	private String completeSentence() {
 		if(mantissa != 0){
-			text  += mantissa+ "/100";
+			text  += mantissa+ "/100 ";
 		}
-		text += " dollars";
+		text += "dollars";
 		String mayus = text.charAt(0) + "";
 		mayus = mayus.toUpperCase();
 		text = text.replaceFirst(text.charAt(0) + "",mayus);
 		return text;
 	}
-
-	public String getUnity(){
-		switch(integer){
-		case 1:{
-			integer = integer - 1;
-			return "one";
-		}
-		case 2:{
-			integer = integer - 2;
-			return "two";
-		}
-		case 3:{
-			integer = integer - 3;
-			return "three";
-		}
-		case 4:{
-			integer = integer - 4;
-			return "four";
-		}
-		case 5:{
-			integer = integer - 5;
-			return "five";
-		}
-		case 6:{
-			integer = integer - 6;
-			return "six";
-		}
-		case 7:{
-			integer = integer - 7;
-			return "seven";
-		}
-		case 8:{
-			integer = integer - 8;
-			return "eight";
-		}
-		case 9:{
-			integer = integer - 9;
-			return "nine";
-		}
-		case 0:{
-			return "";
-		}
-		default:{
-			return "Not a valid number";
-		}
-	}
-		
-	}
-
-	
-	
-	
-	
-	
 	
 }
