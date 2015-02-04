@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1422323982689_1" label="my-shoppingcart-app" name="my-shoppingcart-app">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/my-shoppingcart-app" type="4"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1421290438357_0" label="Window Working Set" name="Aggregate for window 1421290438356"/>
 </workingSetManager>
