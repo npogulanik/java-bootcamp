@@ -547,3 +547,1049 @@
 2015-02-03 21:03:45,420 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
 2015-02-03 21:03:45,422 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2015-02-03 21:03:45,424 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-03 21:17:57,735 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-03 21:17:57,735 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-03 21:17:57,735 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-03 21:17:57,751 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-04 19:14:41,172 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-04 19:14:41,377 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-04 19:14:41,378 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-04 19:14:41,379 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-04 19:14:43,161 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-04 19:14:43,184 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-04 19:14:43,186 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-04 19:14:43,231 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-04 19:29:26,444 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Ing. Moran\java-bootcamp\testSpring\pom.xml
+2015-02-04 19:29:28,975 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany.app:testSpring:0.0.1-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\testSpring\pom.xml.
+2015-02-04 19:29:29,497 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /testSpring/src/main/java
+2015-02-04 19:29:29,532 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /testSpring/src/test/java
+2015-02-04 19:29:29,874 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycompany.app:testSpring:0.0.1-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\testSpring\pom.xml.
+2015-02-04 19:29:29,915 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2015-02-04 19:29:30,982 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 19:29:30,983 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\testSpring\src\main\resources
+2015-02-04 19:29:30,986 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-04 19:29:30,987 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\testSpring\src\test\resources
+2015-02-04 19:46:37,396 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-04 19:46:37,396 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-04 19:46:37,412 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-04 19:46:37,412 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 16:33:34,567 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 16:33:34,608 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 16:33:34,608 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-05 16:33:34,608 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-05 16:33:34,609 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-05 16:33:35,362 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:33:35,365 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 16:33:35,368 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:33:35,370 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 16:34:14,028 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:34:14,030 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 16:34:14,031 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:34:14,033 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 16:34:41,851 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:34:41,855 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 16:34:41,857 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:34:41,860 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 16:40:51,921 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:40:51,923 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 16:40:51,925 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:40:51,927 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 16:56:52,443 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:56:52,445 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 16:56:52,447 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 16:56:52,448 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 18:40:51,886 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:40:51,897 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 18:40:51,899 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:40:51,901 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 18:42:24,493 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:42:24,498 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 18:42:24,502 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:42:24,507 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 18:42:36,265 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:42:36,273 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 18:42:36,275 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:42:36,278 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 18:43:26,795 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:43:26,796 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 18:43:26,798 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:43:26,800 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 18:46:50,165 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:46:50,167 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 18:46:50,168 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:46:50,171 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 18:54:49,604 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:54:49,607 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 18:54:49,612 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:54:49,616 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 18:56:10,878 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:56:10,881 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 18:56:10,883 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 18:56:10,886 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 23:47:50,691 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-05 23:47:50,712 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-05 23:47:50,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 23:47:50,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-05 23:47:50,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-05 23:47:50,713 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-05 23:47:51,278 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 23:47:51,287 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 23:47:51,289 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 23:47:51,290 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 23:48:03,203 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 23:48:03,206 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 23:48:03,208 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 23:48:03,210 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-05 23:48:14,204 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 23:48:14,206 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-05 23:48:14,210 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-05 23:48:14,212 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:04:48,479 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:04:48,480 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:04:48,482 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:04:48,484 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:26:39,189 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:26:39,221 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:26:39,223 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:26:39,225 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:27:12,983 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:27:12,985 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:27:12,986 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:27:12,988 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:27:40,060 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:27:40,063 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:27:40,069 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:27:40,074 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:27:58,204 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:27:58,206 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:27:58,209 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:27:58,211 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:28:28,263 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:28:28,265 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:28:28,268 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:28:28,270 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:28:43,987 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:28:43,988 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:28:43,990 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:28:43,992 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:29:07,341 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:29:07,343 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:29:07,346 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:29:07,349 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:29:27,943 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:29:27,948 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:29:27,954 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:29:27,956 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:32:14,220 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:32:14,222 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:32:14,227 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:32:14,229 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:38:06,665 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:38:07,302 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/${jackson-core-version}/jackson-core-${jackson-core-version}.pom
+2015-02-06 00:38:07,784 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:38:07,785 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:38:07,786 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:07,786 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:07,786 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:38:07,786 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:38:07,787 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:38:07,789 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:38:07,790 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:38:07,791 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:38:25,394 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 00:38:25,646 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:38:26,188 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 00:38:26,189 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 00:38:26,747 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 00:38:28,282 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:28,282 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:28,282 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:38:28,283 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:38:28,284 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:28,284 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:38:28,284 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:38:28,284 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:38:28,286 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:38:28,288 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:38:28,290 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:38:28,291 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:38:40,095 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:38:40,097 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:38:40,100 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:38:40,102 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:40:17,815 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:40:20,056 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.0.0/jackson-core-2.0.0.pom
+2015-02-06 00:40:20,540 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.0.0/jackson-core-2.0.0.pom
+2015-02-06 00:40:20,857 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-02-06 00:40:21,277 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2015-02-06 00:40:21,638 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.0.0/jackson-core-2.0.0.jar
+2015-02-06 00:40:25,330 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.0.0/jackson-core-2.0.0.jar
+2015-02-06 00:40:25,890 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying jackson-core-2.0.0.jar to C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\target\dependencies\jackson-core-2.0.0.jar
+2015-02-06 00:40:25,955 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:25,955 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:25,955 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:40:25,955 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:25,956 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:25,957 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:40:25,957 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:40:25,959 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:40:25,960 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:40:25,962 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:40:25,963 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:40:27,987 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:40:27,988 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:40:27,990 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:40:27,992 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:40:30,286 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 00:40:30,504 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:40:31,082 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 00:40:31,083 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 00:40:31,428 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 00:40:32,453 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:32,453 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:32,454 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - jackson-core-2.0.0.jar already exists in destination.
+2015-02-06 00:40:32,454 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:40:32,455 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:40:32,456 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:32,456 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:40:32,456 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:40:32,456 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:40:32,458 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:40:32,460 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:40:32,461 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:40:32,463 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:45:31,993 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:45:32,967 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.0/jackson-core-2.1.0.pom
+2015-02-06 00:45:33,660 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.0/jackson-core-2.1.0.pom
+2015-02-06 00:45:33,973 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/4/oss-parent-4.pom
+2015-02-06 00:45:34,747 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/4/oss-parent-4.pom
+2015-02-06 00:45:35,110 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.0/jackson-core-2.1.0.jar
+2015-02-06 00:45:36,975 [Worker-30] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.1.0/jackson-core-2.1.0.jar
+2015-02-06 00:45:37,423 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying jackson-core-2.1.0.jar to C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\target\dependencies\jackson-core-2.1.0.jar
+2015-02-06 00:45:37,431 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:37,432 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:37,432 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:45:37,432 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:45:37,433 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:37,434 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:37,434 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:45:37,434 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:45:37,438 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:45:37,464 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:45:37,468 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:45:37,470 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:45:39,331 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:45:39,332 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:45:39,334 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:45:39,335 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:45:45,783 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 00:45:46,063 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:45:46,535 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 00:45:46,536 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 00:45:46,886 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 00:45:47,780 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - jackson-core-2.1.0.jar already exists in destination.
+2015-02-06 00:45:47,781 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:47,781 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:47,781 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:45:47,781 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:45:47,781 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:45:47,782 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:45:47,784 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:45:47,785 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:45:47,786 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:45:47,788 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:48:20,504 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:48:21,395 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2015-02-06 00:48:21,844 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.pom
+2015-02-06 00:48:22,114 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2015-02-06 00:48:22,546 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.5/jackson-parent-2.5.pom
+2015-02-06 00:48:22,811 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2015-02-06 00:48:23,423 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/18/oss-parent-18.pom
+2015-02-06 00:48:23,817 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2015-02-06 00:48:25,368 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.5.0/jackson-annotations-2.5.0.jar
+2015-02-06 00:48:25,834 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying jackson-annotations-2.5.0.jar to C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\target\dependencies\jackson-annotations-2.5.0.jar
+2015-02-06 00:48:25,841 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - jackson-core-2.1.0.jar already exists in destination.
+2015-02-06 00:48:25,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:25,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:25,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:48:25,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:48:25,842 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:48:25,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:48:25,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:48:25,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:48:25,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:48:25,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:48:25,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:48:25,843 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:25,844 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:25,844 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:48:25,844 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:48:25,846 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:48:25,860 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:48:25,862 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:48:25,865 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:48:27,909 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:48:27,911 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:48:27,912 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:48:27,914 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:48:33,538 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 00:48:33,774 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 00:48:34,275 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 00:48:34,276 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 00:48:34,523 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-02-06 00:48:35,413 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - jackson-core-2.1.0.jar already exists in destination.
+2015-02-06 00:48:35,413 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-aop-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:35,413 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-context-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - standard-1.1.2.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - aopalliance-1.0.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-core-4.1.1.RELEASE.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-webmvc-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - commons-logging-1.1.3.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-3.8.1.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - servlet-api-2.5.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-web-3.2.5.RELEASE.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - joda-time-1.6.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-beans-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - spring-expression-4.1.4.RELEASE.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - jstl-1.2.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - jackson-annotations-2.5.0.jar already exists in destination.
+2015-02-06 00:48:35,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - log4j-1.2.12.jar already exists in destination.
+2015-02-06 00:48:35,415 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:48:35,472 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:48:35,473 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:48:35,474 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:49:24,296 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:49:24,298 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:49:24,300 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:49:24,301 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:50:54,552 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:50:54,554 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:50:54,555 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:50:54,557 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 00:59:49,245 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:59:49,246 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 00:59:49,248 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 00:59:49,250 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:28:56,720 [pool-2-thread-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2015-02-06 14:28:57,185 [pool-2-thread-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2015-02-06 14:28:59,386 [pool-2-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2015-02-06 14:28:59,919 [pool-2-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2015-02-06 14:29:01,254 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-maven-plugin/1.2.1.RELEASE/spring-boot-maven-plugin-1.2.1.RELEASE.pom
+2015-02-06 14:29:01,801 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-maven-plugin/1.2.1.RELEASE/spring-boot-maven-plugin-1.2.1.RELEASE.pom
+2015-02-06 14:29:02,944 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-tools/1.2.1.RELEASE/spring-boot-tools-1.2.1.RELEASE.pom
+2015-02-06 14:29:03,410 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-tools/1.2.1.RELEASE/spring-boot-tools-1.2.1.RELEASE.pom
+2015-02-06 14:29:04,568 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-parent/1.2.1.RELEASE/spring-boot-parent-1.2.1.RELEASE.pom
+2015-02-06 14:29:05,200 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-parent/1.2.1.RELEASE/spring-boot-parent-1.2.1.RELEASE.pom
+2015-02-06 14:29:06,375 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-dependencies/1.2.1.RELEASE/spring-boot-dependencies-1.2.1.RELEASE.pom
+2015-02-06 14:29:07,425 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-dependencies/1.2.1.RELEASE/spring-boot-dependencies-1.2.1.RELEASE.pom
+2015-02-06 14:29:08,831 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-framework-bom/4.1.4.RELEASE/spring-framework-bom-4.1.4.RELEASE.pom
+2015-02-06 14:29:09,475 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-framework-bom/4.1.4.RELEASE/spring-framework-bom-4.1.4.RELEASE.pom
+2015-02-06 14:29:10,575 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/data/spring-data-releasetrain/Evans-SR1/spring-data-releasetrain-Evans-SR1.pom
+2015-02-06 14:29:11,017 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/data/spring-data-releasetrain/Evans-SR1/spring-data-releasetrain-Evans-SR1.pom
+2015-02-06 14:29:12,395 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/data/build/spring-data-build/1.5.1.RELEASE/spring-data-build-1.5.1.RELEASE.pom
+2015-02-06 14:29:13,017 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/data/build/spring-data-build/1.5.1.RELEASE/spring-data-build-1.5.1.RELEASE.pom
+2015-02-06 14:29:14,188 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/integration/spring-integration-bom/4.1.1.RELEASE/spring-integration-bom-4.1.1.RELEASE.pom
+2015-02-06 14:29:14,715 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/integration/spring-integration-bom/4.1.1.RELEASE/spring-integration-bom-4.1.1.RELEASE.pom
+2015-02-06 14:29:15,763 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/security/spring-security-bom/3.2.5.RELEASE/spring-security-bom-3.2.5.RELEASE.pom
+2015-02-06 14:29:16,329 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/security/spring-security-bom/3.2.5.RELEASE/spring-security-bom-3.2.5.RELEASE.pom
+2015-02-06 14:29:17,484 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-maven-plugin/1.2.1.RELEASE/spring-boot-maven-plugin-1.2.1.RELEASE.jar
+2015-02-06 14:29:18,325 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-maven-plugin/1.2.1.RELEASE/spring-boot-maven-plugin-1.2.1.RELEASE.jar
+2015-02-06 14:29:22,712 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:29:32,159 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 14:29:32,407 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:29:34,123 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 14:29:34,125 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 14:29:34,789 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-02-06 14:30:49,569 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:30:51,580 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.2.1/spring-boot-starter-web-1.2.1.pom
+2015-02-06 14:30:52,002 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.2.1/spring-boot-starter-web-1.2.1.pom
+2015-02-06 14:30:52,015 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:1.2.1 is missing, no dependency information available
+2015-02-06 14:30:54,080 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.2.1/spring-boot-starter-web-1.2.1.jar
+2015-02-06 14:30:54,474 [Worker-18] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.2.1/spring-boot-starter-web-1.2.1.jar
+2015-02-06 14:30:54,936 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:30:54,938 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:30:54,942 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:30:54,944 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:31:32,388 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 14:31:32,647 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:31:32,855 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:1.2.1 is missing, no dependency information available
+2015-02-06 14:31:33,110 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 14:31:33,112 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 14:31:33,422 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 14:31:33,785 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:1.2.1 is missing, no dependency information available
+2015-02-06 14:31:34,000 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:31:34,002 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:31:34,004 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:31:34,005 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:33:01,561 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:33:02,045 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:33:02,057 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:33:02,059 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:33:02,060 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:33:04,094 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:33:04,096 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:33:04,097 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:33:04,099 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:33:11,448 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 14:33:11,633 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:33:12,105 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 14:33:12,106 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 14:33:12,384 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-02-06 14:33:13,209 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:33:13,212 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:33:13,214 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:33:13,216 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:34:28,071 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:34:28,083 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:34:28,085 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:34:28,087 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:44:11,327 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 14:44:11,523 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:44:12,016 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 14:44:12,017 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 14:44:12,299 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-02-06 14:44:13,098 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:44:13,110 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:44:13,112 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:44:13,113 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:44:19,864 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:44:20,316 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:44:20,317 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:44:20,319 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:44:20,321 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:44:21,215 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:44:21,217 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:44:21,219 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:44:21,220 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:49:14,110 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:49:14,112 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:49:14,114 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:49:14,116 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:50:03,853 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:50:03,855 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:50:03,858 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:50:03,860 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:50:28,659 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:50:28,661 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:50:28,663 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:50:28,665 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:50:41,246 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:50:41,248 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:50:41,250 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:50:41,252 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:55:29,273 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:56:32,831 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:56:34,679 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.1.10.RELEASE/spring-boot-starter-web-1.1.10.RELEASE.pom
+2015-02-06 14:56:35,242 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.1.10.RELEASE/spring-boot-starter-web-1.1.10.RELEASE.pom
+2015-02-06 14:56:36,544 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starters/1.1.10.RELEASE/spring-boot-starters-1.1.10.RELEASE.pom
+2015-02-06 14:56:37,145 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starters/1.1.10.RELEASE/spring-boot-starters-1.1.10.RELEASE.pom
+2015-02-06 14:56:38,386 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-parent/1.1.10.RELEASE/spring-boot-parent-1.1.10.RELEASE.pom
+2015-02-06 14:56:39,169 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-parent/1.1.10.RELEASE/spring-boot-parent-1.1.10.RELEASE.pom
+2015-02-06 14:56:40,252 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-dependencies/1.1.10.RELEASE/spring-boot-dependencies-1.1.10.RELEASE.pom
+2015-02-06 14:56:41,266 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-dependencies/1.1.10.RELEASE/spring-boot-dependencies-1.1.10.RELEASE.pom
+2015-02-06 14:56:42,582 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-framework-bom/4.0.8.RELEASE/spring-framework-bom-4.0.8.RELEASE.pom
+2015-02-06 14:56:43,158 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-framework-bom/4.0.8.RELEASE/spring-framework-bom-4.0.8.RELEASE.pom
+2015-02-06 14:56:44,477 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/data/spring-data-releasetrain/Dijkstra-SR4/spring-data-releasetrain-Dijkstra-SR4.pom
+2015-02-06 14:56:45,023 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/data/spring-data-releasetrain/Dijkstra-SR4/spring-data-releasetrain-Dijkstra-SR4.pom
+2015-02-06 14:56:46,339 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/data/build/spring-data-build/1.4.4.RELEASE/spring-data-build-1.4.4.RELEASE.pom
+2015-02-06 14:56:46,881 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/data/build/spring-data-build/1.4.4.RELEASE/spring-data-build-1.4.4.RELEASE.pom
+2015-02-06 14:56:48,224 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/integration/spring-integration-bom/4.0.5.RELEASE/spring-integration-bom-4.0.5.RELEASE.pom
+2015-02-06 14:56:48,740 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/integration/spring-integration-bom/4.0.5.RELEASE/spring-integration-bom-4.0.5.RELEASE.pom
+2015-02-06 14:56:50,095 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter/1.1.10.RELEASE/spring-boot-starter-1.1.10.RELEASE.pom
+2015-02-06 14:56:50,685 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter/1.1.10.RELEASE/spring-boot-starter-1.1.10.RELEASE.pom
+2015-02-06 14:56:51,774 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot/1.1.10.RELEASE/spring-boot-1.1.10.RELEASE.pom
+2015-02-06 14:56:52,251 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot/1.1.10.RELEASE/spring-boot-1.1.10.RELEASE.pom
+2015-02-06 14:56:53,557 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-core/4.0.8.RELEASE/spring-core-4.0.8.RELEASE.pom
+2015-02-06 14:56:54,078 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-core/4.0.8.RELEASE/spring-core-4.0.8.RELEASE.pom
+2015-02-06 14:56:55,473 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-context/4.0.8.RELEASE/spring-context-4.0.8.RELEASE.pom
+2015-02-06 14:56:56,036 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-context/4.0.8.RELEASE/spring-context-4.0.8.RELEASE.pom
+2015-02-06 14:56:57,358 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-aop/4.0.8.RELEASE/spring-aop-4.0.8.RELEASE.pom
+2015-02-06 14:56:57,879 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-aop/4.0.8.RELEASE/spring-aop-4.0.8.RELEASE.pom
+2015-02-06 14:56:58,984 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-beans/4.0.8.RELEASE/spring-beans-4.0.8.RELEASE.pom
+2015-02-06 14:56:59,439 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-beans/4.0.8.RELEASE/spring-beans-4.0.8.RELEASE.pom
+2015-02-06 14:57:00,773 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-expression/4.0.8.RELEASE/spring-expression-4.0.8.RELEASE.pom
+2015-02-06 14:57:01,350 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-expression/4.0.8.RELEASE/spring-expression-4.0.8.RELEASE.pom
+2015-02-06 14:57:02,448 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-autoconfigure/1.1.10.RELEASE/spring-boot-autoconfigure-1.1.10.RELEASE.pom
+2015-02-06 14:57:02,895 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-autoconfigure/1.1.10.RELEASE/spring-boot-autoconfigure-1.1.10.RELEASE.pom
+2015-02-06 14:57:04,222 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-logging/1.1.10.RELEASE/spring-boot-starter-logging-1.1.10.RELEASE.pom
+2015-02-06 14:57:04,725 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-logging/1.1.10.RELEASE/spring-boot-starter-logging-1.1.10.RELEASE.pom
+2015-02-06 14:57:06,069 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.pom
+2015-02-06 14:57:06,609 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.pom
+2015-02-06 14:57:07,964 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2015-02-06 14:57:08,523 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2015-02-06 14:57:09,876 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2015-02-06 14:57:10,394 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2015-02-06 14:57:11,726 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/jul-to-slf4j/1.7.7/jul-to-slf4j-1.7.7.pom
+2015-02-06 14:57:12,234 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/jul-to-slf4j/1.7.7/jul-to-slf4j-1.7.7.pom
+2015-02-06 14:57:13,553 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.pom
+2015-02-06 14:57:14,154 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.pom
+2015-02-06 14:57:15,485 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.pom
+2015-02-06 14:57:16,006 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.pom
+2015-02-06 14:57:17,193 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/ch/qos/logback/logback-parent/1.1.2/logback-parent-1.1.2.pom
+2015-02-06 14:57:17,867 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/ch/qos/logback/logback-parent/1.1.2/logback-parent-1.1.2.pom
+2015-02-06 14:57:19,191 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.pom
+2015-02-06 14:57:19,773 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.pom
+2015-02-06 14:57:21,022 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2015-02-06 14:57:21,568 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.pom
+2015-02-06 14:57:22,906 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2015-02-06 14:57:23,579 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/slf4j-parent/1.7.6/slf4j-parent-1.7.6.pom
+2015-02-06 14:57:24,987 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/yaml/snakeyaml/1.13/snakeyaml-1.13.pom
+2015-02-06 14:57:25,833 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/yaml/snakeyaml/1.13/snakeyaml-1.13.pom
+2015-02-06 14:57:27,166 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-tomcat/1.1.10.RELEASE/spring-boot-starter-tomcat-1.1.10.RELEASE.pom
+2015-02-06 14:57:27,721 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-tomcat/1.1.10.RELEASE/spring-boot-starter-tomcat-1.1.10.RELEASE.pom
+2015-02-06 14:57:29,527 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-core/7.0.57/tomcat-embed-core-7.0.57.pom
+2015-02-06 14:57:30,282 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-core/7.0.57/tomcat-embed-core-7.0.57.pom
+2015-02-06 14:57:31,396 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-el/7.0.57/tomcat-embed-el-7.0.57.pom
+2015-02-06 14:57:31,869 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-el/7.0.57/tomcat-embed-el-7.0.57.pom
+2015-02-06 14:57:32,970 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.57/tomcat-embed-logging-juli-7.0.57.pom
+2015-02-06 14:57:33,426 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.57/tomcat-embed-logging-juli-7.0.57.pom
+2015-02-06 14:57:35,154 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-websocket/7.0.57/tomcat-embed-websocket-7.0.57.pom
+2015-02-06 14:57:35,825 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-websocket/7.0.57/tomcat-embed-websocket-7.0.57.pom
+2015-02-06 14:57:37,705 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-databind/2.3.4/jackson-databind-2.3.4.pom
+2015-02-06 14:57:38,275 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-databind/2.3.4/jackson-databind-2.3.4.pom
+2015-02-06 14:57:39,691 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2015-02-06 14:57:40,622 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/oss-parent/12/oss-parent-12.pom
+2015-02-06 14:57:41,897 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2015-02-06 14:57:42,426 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom
+2015-02-06 14:57:43,519 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2015-02-06 14:57:44,268 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/oss-parent/11/oss-parent-11.pom
+2015-02-06 14:57:45,557 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-core/2.3.4/jackson-core-2.3.4.pom
+2015-02-06 14:57:46,101 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-core/2.3.4/jackson-core-2.3.4.pom
+2015-02-06 14:57:47,473 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/hibernate/hibernate-validator/5.0.3.Final/hibernate-validator-5.0.3.Final.pom
+2015-02-06 14:57:48,014 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/hibernate/hibernate-validator/5.0.3.Final/hibernate-validator-5.0.3.Final.pom
+2015-02-06 14:57:49,440 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/hibernate/hibernate-validator-parent/5.0.3.Final/hibernate-validator-parent-5.0.3.Final.pom
+2015-02-06 14:57:50,240 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/hibernate/hibernate-validator-parent/5.0.3.Final/hibernate-validator-parent-5.0.3.Final.pom
+2015-02-06 14:57:51,554 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2015-02-06 14:57:52,156 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2015-02-06 14:57:53,211 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2015-02-06 14:57:53,699 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2015-02-06 14:57:55,049 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2015-02-06 14:57:55,594 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2015-02-06 14:57:57,013 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2015-02-06 14:57:57,607 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2015-02-06 14:57:58,863 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2015-02-06 14:57:59,438 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2015-02-06 14:58:00,856 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.pom
+2015-02-06 14:58:01,381 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.pom
+2015-02-06 14:58:02,475 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2015-02-06 14:58:03,110 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2015-02-06 14:58:04,528 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2015-02-06 14:58:05,082 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2015-02-06 14:58:06,183 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-web/4.0.8.RELEASE/spring-web-4.0.8.RELEASE.pom
+2015-02-06 14:58:06,666 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-web/4.0.8.RELEASE/spring-web-4.0.8.RELEASE.pom
+2015-02-06 14:58:07,971 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-webmvc/4.0.8.RELEASE/spring-webmvc-4.0.8.RELEASE.pom
+2015-02-06 14:58:08,556 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-webmvc/4.0.8.RELEASE/spring-webmvc-4.0.8.RELEASE.pom
+2015-02-06 14:58:10,452 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.1.10.RELEASE/spring-boot-starter-web-1.1.10.RELEASE.jar
+2015-02-06 14:58:10,988 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.1.10.RELEASE/spring-boot-starter-web-1.1.10.RELEASE.jar
+2015-02-06 14:58:11,235 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter/1.1.10.RELEASE/spring-boot-starter-1.1.10.RELEASE.jar
+2015-02-06 14:58:11,770 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter/1.1.10.RELEASE/spring-boot-starter-1.1.10.RELEASE.jar
+2015-02-06 14:58:12,266 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot/1.1.10.RELEASE/spring-boot-1.1.10.RELEASE.jar
+2015-02-06 14:58:16,341 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot/1.1.10.RELEASE/spring-boot-1.1.10.RELEASE.jar
+2015-02-06 14:58:16,847 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-autoconfigure/1.1.10.RELEASE/spring-boot-autoconfigure-1.1.10.RELEASE.jar
+2015-02-06 14:58:20,542 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-autoconfigure/1.1.10.RELEASE/spring-boot-autoconfigure-1.1.10.RELEASE.jar
+2015-02-06 14:58:20,797 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-logging/1.1.10.RELEASE/spring-boot-starter-logging-1.1.10.RELEASE.jar
+2015-02-06 14:58:21,323 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-logging/1.1.10.RELEASE/spring-boot-starter-logging-1.1.10.RELEASE.jar
+2015-02-06 14:58:21,811 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar
+2015-02-06 14:58:22,375 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar
+2015-02-06 14:58:22,658 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2015-02-06 14:58:23,632 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2015-02-06 14:58:23,895 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/jul-to-slf4j/1.7.7/jul-to-slf4j-1.7.7.jar
+2015-02-06 14:58:24,499 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/jul-to-slf4j/1.7.7/jul-to-slf4j-1.7.7.jar
+2015-02-06 14:58:24,784 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.jar
+2015-02-06 14:58:25,813 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.jar
+2015-02-06 14:58:28,031 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar
+2015-02-06 14:58:30,559 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar
+2015-02-06 14:58:31,346 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar
+2015-02-06 14:58:34,044 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar
+2015-02-06 14:58:34,888 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/yaml/snakeyaml/1.13/snakeyaml-1.13.jar
+2015-02-06 14:58:37,299 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/yaml/snakeyaml/1.13/snakeyaml-1.13.jar
+2015-02-06 14:58:37,558 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-tomcat/1.1.10.RELEASE/spring-boot-starter-tomcat-1.1.10.RELEASE.jar
+2015-02-06 14:58:38,063 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-tomcat/1.1.10.RELEASE/spring-boot-starter-tomcat-1.1.10.RELEASE.jar
+2015-02-06 14:58:38,768 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-core/7.0.57/tomcat-embed-core-7.0.57.jar
+2015-02-06 14:58:45,880 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-core/7.0.57/tomcat-embed-core-7.0.57.jar
+2015-02-06 14:58:46,483 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-el/7.0.57/tomcat-embed-el-7.0.57.jar
+2015-02-06 14:58:48,586 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-el/7.0.57/tomcat-embed-el-7.0.57.jar
+2015-02-06 14:58:49,085 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.57/tomcat-embed-logging-juli-7.0.57.jar
+2015-02-06 14:58:50,056 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.57/tomcat-embed-logging-juli-7.0.57.jar
+2015-02-06 14:58:50,794 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-websocket/7.0.57/tomcat-embed-websocket-7.0.57.jar
+2015-02-06 14:58:53,478 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-websocket/7.0.57/tomcat-embed-websocket-7.0.57.jar
+2015-02-06 14:58:54,197 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-databind/2.3.4/jackson-databind-2.3.4.jar
+2015-02-06 14:58:59,809 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/jackson/core/jackson-databind/2.3.4/jackson-databind-2.3.4.jar
+2015-02-06 14:59:00,652 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/hibernate/hibernate-validator/5.0.3.Final/hibernate-validator-5.0.3.Final.jar
+2015-02-06 14:59:04,758 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/hibernate/hibernate-validator/5.0.3.Final/hibernate-validator-5.0.3.Final.jar
+2015-02-06 14:59:05,058 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2015-02-06 14:59:06,341 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2015-02-06 14:59:06,850 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.jar
+2015-02-06 14:59:08,299 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.jar
+2015-02-06 14:59:08,796 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2015-02-06 14:59:10,060 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2015-02-06 14:59:12,277 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:59:12,279 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:59:12,283 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:59:12,285 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 14:59:14,166 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 14:59:15,225 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:59:15,226 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 14:59:15,228 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 14:59:15,230 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:20:09,117 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:20:09,161 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:20:09,163 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:20:09,165 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:20:18,750 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:20:18,752 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:20:18,754 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:20:18,756 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:22:48,981 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:22:50,948 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.1.10/spring-boot-starter-web-1.1.10.pom
+2015-02-06 15:22:51,580 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.1.10/spring-boot-starter-web-1.1.10.pom
+2015-02-06 15:22:51,592 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:1.1.10 is missing, no dependency information available
+2015-02-06 15:22:53,209 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/1.1.10/spring-boot-starter-web-1.1.10.jar
+2015-02-06 15:22:53,579 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/1.1.10/spring-boot-starter-web-1.1.10.jar
+2015-02-06 15:22:53,912 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:22:53,914 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:22:53,915 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:22:53,917 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:23:19,734 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:23:20,859 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:23:20,862 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:23:20,863 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:23:20,865 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:23:23,327 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:23:23,328 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:23:23,330 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:23:23,331 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:26:39,328 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:28:06,823 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:28:08,972 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-test/3.0.4/spring-boot-starter-test-3.0.4.pom
+2015-02-06 15:28:09,480 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.4/spring-boot-starter-test-3.0.4.pom
+2015-02-06 15:28:09,490 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-test:jar:3.0.4 is missing, no dependency information available
+2015-02-06 15:28:11,864 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-test/3.0.4/spring-boot-starter-test-3.0.4.jar
+2015-02-06 15:28:12,380 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.4/spring-boot-starter-test-3.0.4.jar
+2015-02-06 15:28:12,776 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:28:12,777 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:28:12,779 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:28:12,780 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:28:20,728 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:28:22,767 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-test/3.0.4.RELEASE/spring-boot-starter-test-3.0.4.RELEASE.pom
+2015-02-06 15:28:23,214 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.4.RELEASE/spring-boot-starter-test-3.0.4.RELEASE.pom
+2015-02-06 15:28:23,222 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-test:jar:3.0.4.RELEASE is missing, no dependency information available
+2015-02-06 15:28:26,474 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-test/3.0.4.RELEASE/spring-boot-starter-test-3.0.4.RELEASE.jar
+2015-02-06 15:28:26,926 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/3.0.4.RELEASE/spring-boot-starter-test-3.0.4.RELEASE.jar
+2015-02-06 15:28:27,397 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:28:27,400 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:28:27,401 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:28:27,403 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:28:33,841 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 15:28:34,072 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:28:34,261 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-test:jar:3.0.4.RELEASE is missing, no dependency information available
+2015-02-06 15:28:35,073 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 15:28:35,074 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 15:28:35,426 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 15:28:35,741 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-test:jar:3.0.4.RELEASE is missing, no dependency information available
+2015-02-06 15:28:36,319 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:28:36,320 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:28:36,325 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:28:36,327 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:29:56,398 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:29:56,586 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-test:jar:3.0.4.RELEASE is missing, no dependency information available
+2015-02-06 15:29:57,471 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:29:57,473 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:29:57,474 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:29:57,475 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:31:19,625 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:31:20,595 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:31:20,596 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:31:20,597 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:31:20,599 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:31:23,005 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:31:23,006 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:31:23,007 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:31:23,008 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:32:27,925 [Worker-61] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:32:30,020 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/3.4.10.RELEASE/spring-boot-starter-web-3.4.10.RELEASE.pom
+2015-02-06 15:32:30,652 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.4.10.RELEASE/spring-boot-starter-web-3.4.10.RELEASE.pom
+2015-02-06 15:32:30,661 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:3.4.10.RELEASE is missing, no dependency information available
+2015-02-06 15:32:32,572 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/3.4.10.RELEASE/spring-boot-starter-web-3.4.10.RELEASE.jar
+2015-02-06 15:32:32,989 [Worker-61] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.4.10.RELEASE/spring-boot-starter-web-3.4.10.RELEASE.jar
+2015-02-06 15:32:33,312 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:32:33,314 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:32:33,315 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:32:33,317 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:32:36,712 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:32:38,891 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/3.4.0.RELEASE/spring-boot-starter-web-3.4.0.RELEASE.pom
+2015-02-06 15:32:39,319 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.4.0.RELEASE/spring-boot-starter-web-3.4.0.RELEASE.pom
+2015-02-06 15:32:39,328 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:3.4.0.RELEASE is missing, no dependency information available
+2015-02-06 15:32:41,235 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/3.4.0.RELEASE/spring-boot-starter-web-3.4.0.RELEASE.jar
+2015-02-06 15:32:41,686 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.4.0.RELEASE/spring-boot-starter-web-3.4.0.RELEASE.jar
+2015-02-06 15:32:41,927 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:32:41,928 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:32:41,929 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:32:41,931 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:32:51,696 [Worker-57] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 15:32:51,863 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:32:52,055 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:3.4.0.RELEASE is missing, no dependency information available
+2015-02-06 15:32:52,287 [Worker-57] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 15:32:52,288 [Worker-57] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 15:32:52,529 [Worker-57] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-02-06 15:32:52,924 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:3.4.0.RELEASE is missing, no dependency information available
+2015-02-06 15:32:53,009 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:32:53,011 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:32:53,012 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:32:53,013 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:33:29,554 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:33:31,362 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/3.0.4.RELEASE/spring-boot-starter-web-3.0.4.RELEASE.pom
+2015-02-06 15:33:33,005 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.4.RELEASE/spring-boot-starter-web-3.0.4.RELEASE.pom
+2015-02-06 15:33:33,016 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:3.0.4.RELEASE is missing, no dependency information available
+2015-02-06 15:33:34,663 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/boot/spring-boot-starter-web/3.0.4.RELEASE/spring-boot-starter-web-3.0.4.RELEASE.jar
+2015-02-06 15:33:35,118 [Worker-48] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/3.0.4.RELEASE/spring-boot-starter-web-3.0.4.RELEASE.jar
+2015-02-06 15:33:35,466 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:33:35,467 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:33:35,468 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:33:35,469 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:33:42,873 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 15:33:43,069 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:33:43,263 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:3.0.4.RELEASE is missing, no dependency information available
+2015-02-06 15:33:43,481 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 15:33:43,482 [Worker-66] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 15:33:43,702 [Worker-66] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-02-06 15:33:43,994 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-starter-web:jar:3.0.4.RELEASE is missing, no dependency information available
+2015-02-06 15:33:44,082 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:33:44,083 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:33:44,086 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:33:44,087 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:34:25,837 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:34:26,827 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:34:26,829 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:34:26,830 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:34:26,831 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:34:29,126 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:34:29,127 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:34:29,128 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:34:29,129 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:34:36,925 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 15:34:37,200 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:34:38,206 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 15:34:38,206 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 15:34:38,580 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 15:34:39,830 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:34:39,832 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:34:39,833 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:34:39,835 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:34:58,542 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:35:00,122 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-web/3.0.4.RELEASE/spring-web-3.0.4.RELEASE.pom
+2015-02-06 15:35:00,685 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-web/3.0.4.RELEASE/spring-web-3.0.4.RELEASE.pom
+2015-02-06 15:35:01,706 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-parent/3.0.4.RELEASE/spring-parent-3.0.4.RELEASE.pom
+2015-02-06 15:35:02,173 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-parent/3.0.4.RELEASE/spring-parent-3.0.4.RELEASE.pom
+2015-02-06 15:35:03,226 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-beans/3.0.4.RELEASE/spring-beans-3.0.4.RELEASE.pom
+2015-02-06 15:35:03,688 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-beans/3.0.4.RELEASE/spring-beans-3.0.4.RELEASE.pom
+2015-02-06 15:35:04,766 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-core/3.0.4.RELEASE/spring-core-3.0.4.RELEASE.pom
+2015-02-06 15:35:05,198 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-core/3.0.4.RELEASE/spring-core-3.0.4.RELEASE.pom
+2015-02-06 15:35:06,276 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-asm/3.0.4.RELEASE/spring-asm-3.0.4.RELEASE.pom
+2015-02-06 15:35:06,715 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-asm/3.0.4.RELEASE/spring-asm-3.0.4.RELEASE.pom
+2015-02-06 15:35:07,761 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-context/3.0.4.RELEASE/spring-context-3.0.4.RELEASE.pom
+2015-02-06 15:35:08,213 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-context/3.0.4.RELEASE/spring-context-3.0.4.RELEASE.pom
+2015-02-06 15:35:09,308 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-aop/3.0.4.RELEASE/spring-aop-3.0.4.RELEASE.pom
+2015-02-06 15:35:09,891 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-aop/3.0.4.RELEASE/spring-aop-3.0.4.RELEASE.pom
+2015-02-06 15:35:10,982 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-expression/3.0.4.RELEASE/spring-expression-3.0.4.RELEASE.pom
+2015-02-06 15:35:11,409 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-expression/3.0.4.RELEASE/spring-expression-3.0.4.RELEASE.pom
+2015-02-06 15:35:12,910 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-web/3.0.4.RELEASE/spring-web-3.0.4.RELEASE.jar
+2015-02-06 15:35:15,834 [Worker-63] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-web/3.0.4.RELEASE/spring-web-3.0.4.RELEASE.jar
+2015-02-06 15:35:16,323 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:35:16,324 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:35:16,326 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:35:16,328 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:35:16,472 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 15:35:16,696 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:35:17,735 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 15:35:17,736 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 15:35:18,040 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 15:35:19,559 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:35:19,560 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:35:19,561 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:35:19,563 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:44:29,194 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:44:29,215 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:44:29,216 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:44:29,218 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:45:27,208 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:45:27,210 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:45:27,211 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:45:27,213 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:56:56,443 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 15:56:56,682 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:56:59,304 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 15:56:59,305 [Worker-74] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 15:56:59,603 [Worker-74] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-02-06 15:57:02,250 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:57:02,252 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:57:02,253 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:57:02,254 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:57:06,849 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:57:06,851 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:57:06,853 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:57:06,860 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 15:58:18,998 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 15:58:19,287 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 15:58:20,381 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 15:58:20,382 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 15:58:20,692 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-02-06 15:58:21,946 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:58:21,947 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 15:58:21,949 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 15:58:21,951 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 16:23:13,462 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 16:23:13,465 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 16:23:13,466 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 16:23:13,468 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 16:23:18,665 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 16:23:18,667 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 16:23:18,668 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 16:23:18,670 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 16:26:13,300 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 16:26:13,302 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 16:26:13,332 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 16:26:13,334 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 17:02:01,406 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 17:02:01,606 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 17:02:03,198 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 17:02:03,200 [Worker-96] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 17:02:03,599 [Worker-96] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-02-06 17:02:05,039 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 17:02:05,040 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 17:02:05,041 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 17:02:05,043 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 17:06:44,454 [Worker-108] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 17:06:44,683 [Worker-108] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 17:06:46,318 [Worker-108] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 17:06:46,319 [Worker-108] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 17:06:46,678 [Worker-108] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-02-06 17:06:47,971 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 17:06:47,990 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 17:06:47,991 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 17:06:47,993 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 17:08:59,993 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 17:08:59,997 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 17:09:00,000 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-02-06 17:09:00,006 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 19:32:09,441 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2015-02-06 19:32:10,804 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2015-02-06 19:32:13,551 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 19:32:18,480 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 19:32:18,481 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 19:32:18,481 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 19:32:18,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 19:32:18,485 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 19:32:25,421 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 19:32:25,423 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 19:32:25,423 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 19:32:25,429 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 19:32:25,430 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 19:38:36,607 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-02-06 19:38:37,024 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 19:38:37,983 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/main/java
+2015-02-06 19:38:38,014 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-shoppingcart-app/src/test/java
+2015-02-06 19:38:38,829 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.myshoppingcart.app:my-shoppingcart-app:1.0-SNAPSHOT @ C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\pom.xml.
+2015-02-06 19:38:39,553 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2015-02-06 19:38:41,012 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 19:38:41,012 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 19:38:41,012 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 19:38:41,012 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 19:38:41,012 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 20:24:57,667 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:24:57,669 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:24:57,669 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:24:57,671 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:24:57,671 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 20:29:41,430 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:29:41,431 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:29:41,432 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:29:41,435 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:29:41,437 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 20:30:12,851 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:30:12,852 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:30:12,853 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:30:12,854 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:30:12,855 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 20:57:12,736 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:57:12,737 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:57:12,738 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 20:57:12,740 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 20:57:12,740 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 21:15:00,785 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 21:15:00,785 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 21:15:00,786 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 21:15:00,787 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 21:15:00,788 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 21:16:19,363 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 21:16:19,364 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 21:16:19,365 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 21:16:19,367 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 21:16:19,367 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:06:35,616 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:06:35,617 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:06:35,617 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:06:35,619 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:06:35,619 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:10:52,934 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:10:52,935 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:10:52,936 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:10:52,938 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:10:52,939 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:11:38,172 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:11:38,172 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:11:38,172 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:11:38,174 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:11:38,175 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:14:04,242 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:14:04,242 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:14:04,243 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:14:04,248 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:14:04,248 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:17:27,310 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:17:27,311 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:17:27,311 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:17:27,313 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:17:27,313 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:20:26,712 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:20:26,713 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:20:26,714 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:20:26,716 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:20:26,717 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:23:08,243 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:23:08,243 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:23:08,243 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:23:08,246 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:23:08,246 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:24:48,881 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:24:48,882 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:24:48,882 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:24:48,885 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:24:48,885 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:32:18,908 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:32:18,909 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:32:18,910 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:32:18,911 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:32:18,915 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:44:41,922 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:44:41,923 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:44:41,924 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:44:41,926 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:44:41,926 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:44:47,943 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:44:47,943 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:44:47,944 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:44:47,945 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:44:47,946 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:47:17,599 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:47:17,600 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:47:17,600 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:47:17,602 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:47:17,602 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:48:12,872 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:48:12,872 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:48:12,873 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:48:12,874 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:48:12,875 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:50:37,651 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:50:37,652 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:50:37,653 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:50:37,655 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:50:37,656 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 22:52:20,655 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:52:20,656 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:52:20,656 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 22:52:20,658 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 22:52:20,659 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 23:06:57,750 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 23:06:57,751 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 23:06:57,752 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 23:06:57,754 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 23:06:57,755 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 23:08:49,338 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 23:08:49,338 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 23:08:49,339 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 23:08:49,341 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 23:08:49,341 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources
+2015-02-06 23:11:45,190 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 23:11:45,191 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 23:11:45,191 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\main\resources
+2015-02-06 23:11:45,193 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-06 23:11:45,193 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Ing. Moran\java-bootcamp\Topic_4_Services\my-shoppingcart-app\src\test\resources

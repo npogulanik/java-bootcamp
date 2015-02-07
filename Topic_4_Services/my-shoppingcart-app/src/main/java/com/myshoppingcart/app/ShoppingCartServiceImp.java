@@ -1,6 +1,9 @@
 package com.myshoppingcart.app;
 
-import java.math.BigInteger;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+
 
 public class ShoppingCartServiceImp implements ShoppingCartService{
 	
@@ -8,29 +11,28 @@ public class ShoppingCartServiceImp implements ShoppingCartService{
  		
  	} 
   
-    public void addItem() {  
+	@Override
+    public void addItem(ShoppingCart shoppingCart,ItemToPurchase item) {  
         System.out.println("Add an item");  
     }  
   
+	@Override
     public void pay() {  
         System.out.println("Pay for the purchase");  
     }  
     
-    
+	@Override
     public void SelectPaymentMethod() {  
         System.out.println("Choose how to pay");  
     }
     
+	@Override
     public void listItems() {  
         System.out.println("List all the items in the purchase operation");  
     }
 
-	public void addItem(ShoppingCart shoppingCart, ItemToPurchase item) {
-		
-		shoppingCart.addItem(item);
-		
-	}
-
+	
+	@Override
 	public void removeItem(ShoppingCart shoppingCart,ItemToPurchase item) {
 		
 		shoppingCart.removeItem(item);
@@ -44,13 +46,15 @@ public class ShoppingCartServiceImp implements ShoppingCartService{
 
 	public void createShoppingCart(User user) {
 		
-		ShoppingCart cart = new ShoppingCart();
-		cart.setUser(user);
-		System.out.println(cart.toString());
+		ApplicationContext context =  new AnnotationConfigApplicationContext(ShoppingCartApp.class);
+		ShoppingCartCreator creator = context.getBean(ShoppingCartCreator.class);
+		creator.createShoppingCart(user);
 		
 	}
 
-	public void deleteShoppingCart() {
+	
+	@Override
+	public void deleteShoppingCart(ShoppingCart shoppingCart) {
 		// TODO Auto-generated method stub
 		
 	}

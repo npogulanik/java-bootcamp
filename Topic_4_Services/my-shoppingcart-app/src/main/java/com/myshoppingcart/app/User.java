@@ -9,8 +9,9 @@ public class User {
 	private String password;
 	private String name;
 	private String lastName;
-	private String email;
+	private String email; 
 	private BigInteger phone;
+	private State state = State.New;
 	
 	
 	public User() {
@@ -75,6 +76,7 @@ public class User {
 		return 	"User: " + lastName.toUpperCase() + ", " + name + "\n" +
 				"UserId: " + idUser + "\n" +
 				"Email: " + email + "\n" +
-				"Phone: " + phone;
+				"Phone: " + phone + "\n"+
+				"State: " + state;
 	}
 }

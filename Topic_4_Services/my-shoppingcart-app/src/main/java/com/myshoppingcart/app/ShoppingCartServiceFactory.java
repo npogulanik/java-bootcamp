@@ -8,11 +8,11 @@ public class ShoppingCartServiceFactory {
         return new ShoppingCartServiceImp();  
     }  
   
-    public static ShoppingCartService getRemoteServiceUsingJms(){  
+    public static ShoppingCartServiceProxy getRemoteServiceUsingJms(){  
         return new ShoppingCartServiceProxy (new ShoppingCartServiceJmsClient());  
     }  
   
-    public static ShoppingCartService getRemoteServiceUsingWebService(){  
+    public static ShoppingCartServiceProxy getRemoteServiceUsingWebService(){  
         return new ShoppingCartServiceProxy (new ShoppingCartWebServiceClient());  
     }  
 

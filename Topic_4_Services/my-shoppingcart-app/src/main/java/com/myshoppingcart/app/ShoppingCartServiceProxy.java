@@ -32,4 +32,7 @@ public class ShoppingCartServiceProxy {
         implementation.createShoppingCart(user);  
     } 
 
+    public void deleteShoppingCart(ShoppingCart shoppingCart){
+    	 implementation.deleteShoppingCart(shoppingCart); 
+    };
 }

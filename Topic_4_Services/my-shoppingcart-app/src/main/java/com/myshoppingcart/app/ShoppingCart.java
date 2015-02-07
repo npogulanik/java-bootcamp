@@ -8,6 +8,7 @@ public class ShoppingCart{
 	private ArrayList<ItemToPurchase> items = new ArrayList<ItemToPurchase>();
 	private ArrayList<Offer> offers = new ArrayList<Offer>();
 	private double amount = 0;
+	private Status status;
 	
 	public ItemToPurchase getCheapestItem(){
 				
@@ -42,8 +43,9 @@ public class ShoppingCart{
 		return amount;
 	}
 	
-	public ShoppingCart() {
-		super();
+	public ShoppingCart(User user) {
+		this.user = user;
+		status = Status.New;	
 	}
 	
 	private String listItems() {

@@ -9,12 +9,12 @@ public class ShoppingCartWebServiceClient implements ShoppingCartService{
     //webService = code to get the reference to Service A from the webservice call  
 	}  
 	
-	 public void addItem() {  
-	        webService.addItem();  
+	 public void addItem(ShoppingCart shoppingCart,ItemToPurchase item) {  
+	        webService.addItem( shoppingCart, item);  
 	    }  
 	  
-	 public void removeItem() {  
-		 webService.removeItem();  
+	 public void removeItem(ShoppingCart shoppingCart,ItemToPurchase item) {  
+		 webService.removeItem( shoppingCart, item);  
 	 }  
 
 	 public void pay() {  
@@ -27,7 +27,25 @@ public class ShoppingCartWebServiceClient implements ShoppingCartService{
 	  
 	 public void listItems() {  
 		 webService.listItems();  
-	 }  
+	 }
+
+	@Override
+	public void logIn() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void createShoppingCart(User user) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteShoppingCart(ShoppingCart shoppingCart) {
+		// TODO Auto-generated method stub
+		
+	}  
 	 
 	 
 
